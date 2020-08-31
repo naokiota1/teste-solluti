@@ -1,2 +1,2 @@
-# teste-solluti
- Teste Solluti - front-end
+# Teste Solluti - Front-end
+  Projeto utilizando Html, CSS e Javascript  
